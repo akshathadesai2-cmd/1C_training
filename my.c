@@ -1,0 +1,1 @@
+ write a function which will accept two input parameters x,y and retiuens x
